@@ -1,0 +1,7 @@
+atm_card = True
+correct_pin = True
+account_blocked = False
+if atm_card and correct_pin and not account_blocked:
+    print("Access Granted")
+else:
+    print("Access Not Granted")
