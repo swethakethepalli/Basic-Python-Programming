@@ -1,0 +1,7 @@
+theory = int(input("Enter theory marks: "))
+practical = int(input("Enter practical marks: "))
+total = theory + practical
+if theory >= 35 and practical >= 15 and total >= 60:
+    print("Student Passed")
+else:
+    print("Student Failed")
