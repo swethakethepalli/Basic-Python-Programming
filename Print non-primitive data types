@@ -1,0 +1,8 @@
+list1 = [10, 20,40,20,40, 30]
+print("List:", list1)
+tuple1 = (10,20,20, 30)
+print("Tuple:", tuple1)
+set1 = {10, 20, 30}
+print("Set:", set1)
+dict1 = {"one": 1, "two": 2}
+print("Dictionary:", dict1)
