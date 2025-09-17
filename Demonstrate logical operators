@@ -1,0 +1,5 @@
+a = 10
+b = 12
+print("a > 0 and b > 15:", a > 0 and b > 15)
+print("a > 15 or b > 5:", a > 15 or b > 5)
+print("not(a == 10):", not (a == 10))
